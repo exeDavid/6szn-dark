@@ -1,4 +1,4 @@
-# 6szn
+# SZN
 
 <img src="https://raw.githubusercontent.com/exeDavid/6szn-dark/main/szn-theme.png" alt="Preview">
 
@@ -15,6 +15,6 @@
 4.  Search for `6szn`
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
-7.  From the menu bar click: Code > Preferences > Color Theme > Pick your variant
+7.  From the menu bar click: Code > Preferences > Color Theme > Pick `szn`
 
 **Enjoy!**
