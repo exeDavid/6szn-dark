@@ -1,0 +1,39 @@
+{
+    "name": "6szn-dark",
+    "displayName": "6szn",
+    "description": "personal theme",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "icon": "6.png",
+    "publisher": "6",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/exeDavid/6szn-Theme.git"
+	},
+    "keywords": [
+		"Theme",
+		"Dark Theme",
+		"6szn",
+		"6",
+		"six",
+		"Night Theme"
+	],
+    "categories": [
+        "Themes"
+    ],
+    "galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+    "contributes": {
+        "themes": [
+            {
+                "label": "6szn",
+                "uiTheme": "vs-dark",
+                "path": "./themes/6szn-color-theme.json"
+            }
+        ]
+    }
+}
