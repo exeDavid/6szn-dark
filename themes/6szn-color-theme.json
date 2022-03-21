@@ -140,7 +140,7 @@
       "name": "Function Method",
       "scope": ["support.function", "meta.object.member"],
       "settings": {
-        "foreground": "#3eee6a"
+        "foreground": "#4ee473dc"
       }
     },
     {
@@ -161,14 +161,14 @@
       "name": "Object Property",
       "scope": ["variable.other.object.property"],
       "settings": {
-        "foreground": "#8eebfc"
+        "foreground": "#8eebfce7"
       }
     },
     {
       "name": "Object Property - Last",
       "scope": ["support.variable.property", "variable.other.property"],
       "settings": {
-        "foreground": "#ffd07b"
+        "foreground": "#f8db9cec"
       }
     },
     {

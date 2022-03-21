@@ -4,7 +4,7 @@
 
 ## Variants
 
-- szn (regular and italics) (Dark) (**recommended**)
+- szn (Dark) (**recommended**)
 
 
 ## Installation
