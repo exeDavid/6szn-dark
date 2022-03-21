@@ -68,7 +68,7 @@
       "name": "Keyword Flow",
       "scope": ["keyword.control.flow"],
       "settings": {
-        "foreground": "#a6eefb"
+        "foreground": "#91fbff"
       }
     },
     {
@@ -140,7 +140,7 @@
       "name": "Function Method",
       "scope": ["support.function", "meta.object.member"],
       "settings": {
-        "foreground": "#6be7eb"
+        "foreground": "#3eee6a"
       }
     },
     {
@@ -161,21 +161,21 @@
       "name": "Object Property",
       "scope": ["variable.other.object.property"],
       "settings": {
-        "foreground": "#a6eefb"
+        "foreground": "#8eebfc"
       }
     },
     {
       "name": "Object Property - Last",
       "scope": ["support.variable.property", "variable.other.property"],
       "settings": {
-        "foreground": "#a7c6e8"
+        "foreground": "#ffd07b"
       }
     },
     {
       "name": "Object Literal Key",
       "scope": ["meta.object-literal.key", "entity.name.label.js", "string.unquoted"],
       "settings": {
-        "foreground": "#bfeb95"
+        "foreground": "#bee0fb"
       }
     },
     {
@@ -447,7 +447,7 @@
       "name": "Regular Expressions",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#a6eefb"
+        "foreground": "#8EEBFC"
       }
     },
     {
