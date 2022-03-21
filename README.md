@@ -1,11 +1,11 @@
 # 6szn
 
-<img src="/szn-theme.png" alt="Preview">
+<img src="https://raw.githubusercontent.com/exeDavid/6szn-dark/main/szn-theme.png" alt="Preview">
 
 ## Variants
 
-- 6szn (regular and italics) (Dark) (**recommended**)
-- 6szn-light (regular and italics) (Light) (**Soon**)
+- szn (regular and italics) (Dark) (**recommended**)
+
 
 ## Installation
 

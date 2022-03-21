@@ -1,7 +1,7 @@
 {
     "name": "6szn-dark",
-    "displayName": "6szn",
-    "description": "personal theme",
+    "displayName": "szn",
+    "description": "Dark theme for all szn's",
     "version": "1.1.0",
     "engines": {
         "vscode": "^1.65.0"
@@ -18,13 +18,15 @@
         "6szn",
         "6",
         "six",
-        "Night Theme"
+        "Night Theme",
+        "seasons",
+        "szn"
     ],
     "categories": [
         "Themes"
     ],
     "galleryBanner": {
-        "color": "#000000",
+        "color": "#100d14",
         "theme": "dark"
     },
     "contributes": {
