@@ -256,7 +256,7 @@
         "entity.name",
         "support.type",
         "support.class",
-        "support.other.namespace.use.php",
+        "support.orther.namespace.use.php",
         "meta.use.php",
         "support.other.namespace.php",
         "markup.changed.git_gutter",
