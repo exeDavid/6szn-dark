@@ -2,7 +2,7 @@
     "name": "6szn-dark",
     "displayName": "szn",
     "description": "Dark theme for all szn's",
-    "version": "1.7.0",
+    "version": "1.8.0",
     "engines": {
         "vscode": "^1.65.0"
     },
