@@ -175,7 +175,7 @@
       "name": "Object Literal Key",
       "scope": ["meta.object-literal.key", "entity.name.label.js", "string.unquoted"],
       "settings": {
-        "foreground": "#bee0fb"
+        "foreground": "#d5ecff"
       }
     },
     {
